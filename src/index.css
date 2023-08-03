@@ -324,7 +324,7 @@ Featured Tours
 
 .tour-card {
   transition: var(--transition);
-  background: var(--clr-grey-10);
+  background: red;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   margin-bottom: 2rem;
 }
